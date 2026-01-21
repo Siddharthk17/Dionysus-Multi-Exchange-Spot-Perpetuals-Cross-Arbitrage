@@ -199,7 +199,7 @@ Access the premium web dashboard:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    HADES ZERO PIPELINE                      │
+│                    DIONYSUS PIPELINE                        │
 └─────────────────────────────────────────────────────────────┘
 
     ┌──────────┐
@@ -266,7 +266,7 @@ Test Environment: 4-core CPU, 16GB RAM, 100Mbps connection
 ├──────────────────────┼───────────────────┤
 │  Exchanges Scanned   │  20               │
 │  Total API Calls     │  20               │
-│  Average Latency     │  1.2s             │
+│  Average Latency     │  0.5-0.75s        │
 │  Data Points/Scan    │  ~800-1200        │
 │  Memory Usage        │  45-60 MB         │
 │  Update Frequency    │  Continuous       │
