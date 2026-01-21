@@ -1,7 +1,8 @@
 <div align="center">
+
 # 🔱 DIONYSUS
 ### Multi-Exchange Perpetual Funding Rate Arbitrage Terminal
-
+    
 ![Version](https://img.shields.io/badge/version-1.0.0-7000df?style=for-the-badge&logo=semantic-release&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3.9+-00f0ff?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-success?style=for-the-badge)
