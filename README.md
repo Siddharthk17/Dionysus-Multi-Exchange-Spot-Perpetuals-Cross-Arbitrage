@@ -31,7 +31,7 @@
 │  ❌ Delayed data, missed opportunities                      │
 │  ❌ No real-time alerts                                     │
 │                                                             │
-│  DIONYSUS :                                                │
+│  DIONYSUS :                                                 │
 │  ✅ Automated multi-exchange scanning                       │
 │  ✅ Sub-second latency aggregation                          │
 │  ✅ Real-time Telegram alerts + Web dashboard               │
