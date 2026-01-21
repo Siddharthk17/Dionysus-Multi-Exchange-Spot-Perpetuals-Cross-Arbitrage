@@ -31,7 +31,7 @@
 │  ❌ Delayed data, missed opportunities                      │
 │  ❌ No real-time alerts                                     │
 │                                                             │
-│  HADES ZERO:                                                │
+│  DIONYSUS :                                                │
 │  ✅ Automated multi-exchange scanning                       │
 │  ✅ Sub-second latency aggregation                          │
 │  ✅ Real-time Telegram alerts + Web dashboard               │
