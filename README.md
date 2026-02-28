@@ -117,8 +117,8 @@ pip (Python package manager)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hades-zero.git
-cd hades-zero
+git clone https://github.com/Siddharthk17/Dionysus-Multi-Exchange-Spot-Perpetuals-Cross-Arbitrage.git
+cd Dionysus-Multi-Exchange-Spot-Perpetuals-Cross-Arbitrage
 
 # Install dependencies
 pip install -r requirements.txt
